@@ -1,0 +1,13 @@
+reports/
+backups/
+server.json
+*.zip
+*.backup
+*.log
+*.pem
+*.key
+.env
+.env.*
+.DS_Store
+
+
